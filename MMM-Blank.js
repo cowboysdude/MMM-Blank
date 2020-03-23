@@ -1,10 +1,10 @@
 /* Magic Mirror
- * Module: The-Forecast
+ * Module: The-Blank
  *
- * By Cowboysdude
+ * By Your Name
  * MIT Licensed.
  */
-Module.register("The-Forecast", {
+Module.register("The-Blank", {
 
     // Module config defaults.
     defaults: {
